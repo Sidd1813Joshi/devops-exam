@@ -19,4 +19,18 @@ Scripting: The script.sh file automates operational checks, simulating the use o
 
 Branching: Creating and using the 'feature' branch isolates my changes. This is a common practice to make sure that the development work does not break the mainline.
 
+1. First I created a directory called exam in my home directory. 
+2. Inside that, I made a Readme.md file and wrote the definitions asked and all the steps as to how i completed my exam. 
+3. Next I made a section connecting this to my assignment
+4. Next I made a script file and added commands to:
+	present working directory
+	print the current user' name
+	peint the amount of memory resources available in the system
+	print the amount of disk space in the system
+	list all the files in the current directory
+	print the contents of the script.sh file itself
 
+5. I made the script executable and ran it, saving the output into script.log
+6. Now I made a GitHub repo called 'devops-exam' and initialized it inside my exam folder.
+7. Now I created a new branch called feature, commited all 3 files.
+8.The main branch was left cleam
